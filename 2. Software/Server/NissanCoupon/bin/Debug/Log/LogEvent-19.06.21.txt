@@ -1,0 +1,342 @@
+Time: 2019/06/21 15:18:19
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Service",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":7,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299325",
+		"LicensePlateNumber":"",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối h��i Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:18:57
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Sale",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":7,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299325",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"G���i hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:19:05
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Sales",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":7,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299325",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:19:05
+FunctionName: InsertNewCoupon
+Message: Giftcode : , BKS : 30F029292, Phone : 0356053721
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:19:29
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Sales",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":7,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299325",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:19:37
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Sales",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":7,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299326",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:19:46
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Sales",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":8,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299325",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:19:52
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Sales",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":8,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299326",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:19:52
+FunctionName: InsertNewCoupon
+Message: Giftcode : , BKS : 30F029292, Phone : 0356053721
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:20:01
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Service",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":8,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299326",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:20:10
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Service",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":8,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"AF299326",
+		"LicensePlateNumber":"",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối h��i Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:20:15
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Service",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":8,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:20:15
+FunctionName: InsertNewCoupon
+Message: Giftcode : , BKS : 30F029292, Phone : 0356053721
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:21:03
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Service",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":8,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"",
+		"LicensePlateNumber":"30F029292",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:21:16
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Service",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":8,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"",
+		"LicensePlateNumber":"30F029293",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:21:22
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Service",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":8,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"",
+		"LicensePlateNumber":"",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:21:32
+FunctionName: GetObjectFromStream
+Message: [
+	{
+		"CampaignName":"Khanh Test",
+		"Category":"Service",
+		"Type":"Survey",
+		"PromotionDate":"16/06/2019",
+		"DealerName":"Nissan Thanh Hoa",
+		"CustomerNumber":9,
+		"CustomerName":"Khanh",
+		"PhoneNumber":"0356053721",
+		"VehicleModel":"Sunny",
+		"ChassisNumber":"",
+		"LicensePlateNumber":"30F029293",
+		"ExpriedDate":"16/09/2019",
+		"ReminderDay":"16/06/2019",
+		"EntitledServiceGift":"Gối hơi Nissan",
+		"RedeemedByDealer":""
+	}
+]
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/21 15:21:32
+FunctionName: InsertNewCoupon
+Message: Giftcode : , BKS : 30F029293, Phone : 0356053721
+--------------------------------------------------------------------------------------------------------------
+

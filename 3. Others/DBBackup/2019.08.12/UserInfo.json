@@ -1,0 +1,780 @@
+{ 
+    "_id" : ObjectId("5d01b247000da9ca7d4f9479"), 
+    "UserName" : "khanhpd", 
+    "CreatedDate" : ISODate("2019-06-13T02:17:45.639+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "", 
+        "Name" : "Nationwide", 
+        "Abbreviation" : "", 
+        "Type" : "", 
+        "Code" : "00"
+    }, 
+    "Email" : "phamkhanh.hut@gmail.com", 
+    "Enable" : true, 
+    "FullName" : "Pham Duc Khanh", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "ToEaLYHatrSE+i0M+G5gAw==", 
+    "Permission" : [
+        NumberInt(182), 
+        NumberInt(92)
+    ], 
+    "PhoneNumber" : "0356053721"
+}
+{ 
+    "_id" : ObjectId("5d0c3774859143be74379069"), 
+    "UserName" : "Hoa Mai", 
+    "CreatedDate" : ISODate("2019-06-21T01:48:36.436+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Ha Dong", 
+        "Abbreviation" : "NHD", 
+        "Type" : "3S", 
+        "Code" : "01"
+    }, 
+    "Email" : "hoa.mai@nissan.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Mai Thi Hoa", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "AMtAJF1EWMo=", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0931118238"
+}
+{ 
+    "_id" : ObjectId("5d0c37eb859143be7437910a"), 
+    "UserName" : "Lan Huong", 
+    "CreatedDate" : ISODate("2019-06-20T17:00:00.000+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Nationwide", 
+        "Name" : "Nissan Viet Nam", 
+        "Abbreviation" : "NVL", 
+        "Type" : "NIL", 
+        "Code" : "00"
+    }, 
+    "Email" : "lanhuong.nguyen@nissan.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Nguyen Thi Lan Huong", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "VmRCZ+IZq0qE+i0M+G5gAw==", 
+    "Permission" : [
+        NumberInt(92), 
+        NumberInt(182)
+    ], 
+    "PhoneNumber" : "0982570545"
+}
+{ 
+    "_id" : ObjectId("5d0c7a65859143be7437ea64"), 
+    "UserName" : "bau.nguyen@nissan.com.vn", 
+    "CreatedDate" : ISODate("2019-06-21T06:34:13.335+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : null, 
+        "Name" : "Nationwide", 
+        "Abbreviation" : "NATION", 
+        "Type" : null, 
+        "Code" : "00"
+    }, 
+    "Email" : "bau.nguyen@nissan.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Nguyễn Thị Ngọc Báu", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "8FTGGVesYsiE+i0M+G5gAw==", 
+    "Permission" : [
+        NumberInt(92), 
+        NumberInt(182)
+    ], 
+    "PhoneNumber" : "0902282887"
+}
+{ 
+    "_id" : ObjectId("5d0c93fa859143be7438105e"), 
+    "UserName" : "nissanthanglong01", 
+    "CreatedDate" : ISODate("2019-06-21T08:23:22.189+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Thang Long", 
+        "Abbreviation" : "NTL", 
+        "Type" : "3S", 
+        "Code" : "02"
+    }, 
+    "Email" : "bau.nguyen@nissan.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Nissan Thang Long", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "8FTGGVesYsiE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0902282887"
+}
+{ 
+    "_id" : ObjectId("5d2d9456d0abfe3a6a6e1a43"), 
+    "UserName" : "Nissan Go Vap", 
+    "CreatedDate" : ISODate("2019-07-16T09:26:06.877+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "South", 
+        "Name" : "Nissan Go Vap", 
+        "Abbreviation" : "NGV", 
+        "Type" : "3S", 
+        "Code" : "20"
+    }, 
+    "Email" : "phaphuynh@nissan-govap.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Huỳnh Pháp", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "xVFT7vB8UMOE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0868407777"
+}
+{ 
+    "_id" : ObjectId("5d2d94add0abfe3a6a6e1a5a"), 
+    "UserName" : "Nissan Ha Dong", 
+    "CreatedDate" : ISODate("2019-07-15T17:00:00.000+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Ha Dong", 
+        "Abbreviation" : "NHD", 
+        "Type" : "3S", 
+        "Code" : "01"
+    }, 
+    "Email" : "huy.pham@nissanhadong.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Phạm Quang Huy", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "qmgciomksKyxdPTcIGeKkA==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0982965511"
+}
+{ 
+    "_id" : ObjectId("5d2d94ddd0abfe3a6a6e1a72"), 
+    "UserName" : "Nissan Bac Giang", 
+    "CreatedDate" : ISODate("2019-07-16T09:11:57.853+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Bac Giang", 
+        "Abbreviation" : "NBG", 
+        "Type" : "3S", 
+        "Code" : "07"
+    }, 
+    "Email" : "thu.do@nissanbacgiang.com", 
+    "Enable" : true, 
+    "FullName" : "Ms. Đỗ Thị Bích Thu", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "NqNS48+Cp3eE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0978017721"
+}
+{ 
+    "_id" : ObjectId("5d2d951dd0abfe3a6a6e1a89"), 
+    "UserName" : "Nissan Thang Long", 
+    "CreatedDate" : ISODate("2019-07-16T09:13:01.898+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Thang Long", 
+        "Abbreviation" : "NTL", 
+        "Type" : "3S", 
+        "Code" : "02"
+    }, 
+    "Email" : "phuong.nguyen@nissanthanglong.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Nguyễn Thế Phương", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "KqJ8k2RUfkeE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0905168194"
+}
+{ 
+    "_id" : ObjectId("5d2d954dd0abfe3a6a6e1a96"), 
+    "UserName" : "Nissan Long Bien", 
+    "CreatedDate" : ISODate("2019-07-16T09:13:49.829+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Long Bien", 
+        "Abbreviation" : "NLB", 
+        "Type" : "3S", 
+        "Code" : "03"
+    }, 
+    "Email" : "lethithanhhuyen@nissan-longbien.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Ms. Lê Thị Thanh Huyền", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "5CWG74aygCmE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0984217279"
+}
+{ 
+    "_id" : ObjectId("5d2d957bd0abfe3a6a6e1aa3"), 
+    "UserName" : "Nissan Kinh Do", 
+    "CreatedDate" : ISODate("2019-07-16T09:14:35.827+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Kinh Do", 
+        "Abbreviation" : "NKD", 
+        "Type" : "3S", 
+        "Code" : "04"
+    }, 
+    "Email" : "cr@nissankinhdo.com", 
+    "Enable" : true, 
+    "FullName" : "Ms. Nguyễn Thu Hường", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "urubeidguXWE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0985106677"
+}
+{ 
+    "_id" : ObjectId("5d2d95a7d0abfe3a6a6e1aae"), 
+    "UserName" : "Nissan Pham Van Dong", 
+    "CreatedDate" : ISODate("2019-07-16T09:15:19.435+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Pham Van Dong", 
+        "Abbreviation" : "NPVD", 
+        "Type" : "3S", 
+        "Code" : "05"
+    }, 
+    "Email" : "loan.ht@nissanphamvandong.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Ms. Hồ Thúy Loan", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "DlBk8qdCe2OE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0948338898"
+}
+{ 
+    "_id" : ObjectId("5d2d95d1d0abfe3a6a6e1abb"), 
+    "UserName" : "Nissan Le Van Luong", 
+    "CreatedDate" : ISODate("2019-07-16T09:16:01.397+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Le Van Luong", 
+        "Abbreviation" : "NLVL", 
+        "Type" : "1S", 
+        "Code" : "06"
+    }, 
+    "Email" : "huyen.nt@nissanlevanluong.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Ms. Nguyễn Thanh Huyền", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "0UaT2GDEhgWE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0946825692"
+}
+{ 
+    "_id" : ObjectId("5d2d95fed0abfe3a6a6e1ac8"), 
+    "UserName" : "Nissan Lao Cai", 
+    "CreatedDate" : ISODate("2019-07-16T09:16:46.305+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Lao Cai", 
+        "Abbreviation" : "NLC", 
+        "Type" : "3S", 
+        "Code" : "08"
+    }, 
+    "Email" : "giangautolc@gmail.com", 
+    "Enable" : true, 
+    "FullName" : "Mr. Phạm Lê Giang", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "9ByybQrY3aiE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0902111587"
+}
+{ 
+    "_id" : ObjectId("5d2d9629d0abfe3a6a6e1ad3"), 
+    "UserName" : "Nissan Ha Long", 
+    "CreatedDate" : ISODate("2019-07-16T09:17:29.305+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Ha Long", 
+        "Abbreviation" : "NHL", 
+        "Type" : "3S", 
+        "Code" : "09"
+    }, 
+    "Email" : "ngoclb2305@gmail.com", 
+    "Enable" : true, 
+    "FullName" : "Ms. Lê Bích Ngọc", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "thVvfSiVwtuE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0986823594"
+}
+{ 
+    "_id" : ObjectId("5d2d9655d0abfe3a6a6e1ae4"), 
+    "UserName" : "Nissan Vinh Phuc", 
+    "CreatedDate" : ISODate("2019-07-16T09:18:13.960+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Vinh Phuc", 
+        "Abbreviation" : "NVP", 
+        "Type" : "3S", 
+        "Code" : "10"
+    }, 
+    "Email" : "ntdong@nissanvinhphuc.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Nguyễn Thành Đông", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "S3uI9NxiMrOE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0904647337"
+}
+{ 
+    "_id" : ObjectId("5d2d968ed0abfe3a6a6e1af1"), 
+    "UserName" : "Nissan Tay Ho", 
+    "CreatedDate" : ISODate("2019-07-16T09:19:10.922+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "North", 
+        "Name" : "Nissan Tay Ho", 
+        "Abbreviation" : "NTO", 
+        "Type" : "1S", 
+        "Code" : "11"
+    }, 
+    "Email" : "bay.nt@nissantayho.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Nguyễn Trí Bẩy", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "6rKcbL3MZfyE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0904601888"
+}
+{ 
+    "_id" : ObjectId("5d2d96bed0abfe3a6a6e1b01"), 
+    "UserName" : "Nissan Thanh Hoa", 
+    "CreatedDate" : ISODate("2019-07-16T09:19:58.560+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Central", 
+        "Name" : "Nissan Thanh Hoa", 
+        "Abbreviation" : "NTH", 
+        "Type" : "3S", 
+        "Code" : "12"
+    }, 
+    "Email" : "isabelle.bui3004@gmail.com", 
+    "Enable" : true, 
+    "FullName" : "Ms. Bùi Thị Thu Trang", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "h21S0lxtvRmE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0977436476"
+}
+{ 
+    "_id" : ObjectId("5d2d96ead0abfe3a6a6e1b0c"), 
+    "UserName" : "Nissan Vinh", 
+    "CreatedDate" : ISODate("2019-07-16T09:20:42.550+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Central", 
+        "Name" : "Nissan Vinh", 
+        "Abbreviation" : "NVI", 
+        "Type" : "3S", 
+        "Code" : "13"
+    }, 
+    "Email" : "dung.dt@nissanvinh.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Đặng Tuấn Dũng", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "kHGpeBtBazqE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0913607229"
+}
+{ 
+    "_id" : ObjectId("5d2d971fd0abfe3a6a6e1b1b"), 
+    "UserName" : "Nissan Dong Ha", 
+    "CreatedDate" : ISODate("2019-07-16T09:21:35.395+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Central", 
+        "Name" : "Nissan Dong Ha", 
+        "Abbreviation" : "NDH", 
+        "Type" : "3S", 
+        "Code" : "14"
+    }, 
+    "Email" : "nissandongha@gmail.com", 
+    "Enable" : true, 
+    "FullName" : "Mr. Lê Đăng Quyền", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "/ZuptsQEmyWE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0935588988"
+}
+{ 
+    "_id" : ObjectId("5d2d9751d0abfe3a6a6e1b28"), 
+    "UserName" : "Nissan Da Nang", 
+    "CreatedDate" : ISODate("2019-07-16T09:22:25.095+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Central", 
+        "Name" : "Nissan Da Nang", 
+        "Abbreviation" : "NDN", 
+        "Type" : "3S", 
+        "Code" : "15"
+    }, 
+    "Email" : "dqtuan2012@gmail.com", 
+    "Enable" : true, 
+    "FullName" : "Mr. Đào Quang Tuấn", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "9P8wYopHQHGE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0989399499"
+}
+{ 
+    "_id" : ObjectId("5d2d977bd0abfe3a6a6e1b35"), 
+    "UserName" : "Nissan Buon Ma Thuot", 
+    "CreatedDate" : ISODate("2019-07-16T09:23:07.566+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Central", 
+        "Name" : "Nissan Buon Ma Thuot", 
+        "Abbreviation" : "NBMT", 
+        "Type" : "3S", 
+        "Code" : "16"
+    }, 
+    "Email" : "ngominhdungbmt@yahoo.com", 
+    "Enable" : true, 
+    "FullName" : "Mr. Ngô Minh Dũng", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "pRSZXKxTjRWE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0932473939"
+}
+{ 
+    "_id" : ObjectId("5d2d97b1d0abfe3a6a6e1b42"), 
+    "UserName" : "Nissan Quy Nhon", 
+    "CreatedDate" : ISODate("2019-07-16T09:24:01.738+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Central", 
+        "Name" : "Nissan Quy Nhon", 
+        "Abbreviation" : "NQN", 
+        "Type" : "3S", 
+        "Code" : "17"
+    }, 
+    "Email" : "Oanh29105@yahoo.com", 
+    "Enable" : true, 
+    "FullName" : "Ms. Nguyễn Thị Ngọc Oanh", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "38wi4Mo3vCWE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0907397917"
+}
+{ 
+    "_id" : ObjectId("5d2d97dbd0abfe3a6a6e1b51"), 
+    "UserName" : "Nissan Gia Lai", 
+    "CreatedDate" : ISODate("2019-07-16T09:24:43.698+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Central", 
+        "Name" : "Nissan Gia Lai", 
+        "Abbreviation" : "NGL", 
+        "Type" : "3S", 
+        "Code" : "18"
+    }, 
+    "Email" : "nissan.gialai@gmail.com", 
+    "Enable" : true, 
+    "FullName" : "Mr. Lê Văn Thành", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "6gacFAvb9wWE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0903504149"
+}
+{ 
+    "_id" : ObjectId("5d2d9802d0abfe3a6a6e1b5a"), 
+    "UserName" : "Nissan Mien Tay", 
+    "CreatedDate" : ISODate("2019-07-16T09:25:22.175+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "South", 
+        "Name" : "Nissan Mien Tay", 
+        "Abbreviation" : "NMT", 
+        "Type" : "3S", 
+        "Code" : "19"
+    }, 
+    "Email" : "khuongle@nissanmientay.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Lê Đình Khương", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "dqPnz/eVzYyE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0903759990"
+}
+{ 
+    "_id" : ObjectId("5d2d9863d0abfe3a6a6e1b73"), 
+    "UserName" : "Nissan Sai Gon", 
+    "CreatedDate" : ISODate("2019-07-16T09:26:59.855+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "South", 
+        "Name" : "Nissan Sai Gon", 
+        "Abbreviation" : "NSG", 
+        "Type" : "3S", 
+        "Code" : "21"
+    }, 
+    "Email" : "gm@nissansaigon.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Nguyễn Văn Quang", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "4TfkRLzFrr+E+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0903805547"
+}
+{ 
+    "_id" : ObjectId("5d2d989bd0abfe3a6a6e1b88"), 
+    "UserName" : "Nissan Bien Hoa", 
+    "CreatedDate" : ISODate("2019-07-16T09:27:55.861+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "South", 
+        "Name" : "Nissan Bien Hoa", 
+        "Abbreviation" : "NBH", 
+        "Type" : "3S", 
+        "Code" : "22"
+    }, 
+    "Email" : "thaoanh94@yahoo.com", 
+    "Enable" : true, 
+    "FullName" : "Ms. Nguyễn Thị Ngọc Thảo", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "aFDcR+oleEuE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0903830428"
+}
+{ 
+    "_id" : ObjectId("5d2d98c9d0abfe3a6a6e1b95"), 
+    "UserName" : "Nissan Binh Duong", 
+    "CreatedDate" : ISODate("2019-07-16T09:28:41.034+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "South", 
+        "Name" : "Nissan Binh Duong", 
+        "Abbreviation" : "NBD", 
+        "Type" : "3S", 
+        "Code" : "23"
+    }, 
+    "Email" : "duy.nguyen0989@gmail.com", 
+    "Enable" : true, 
+    "FullName" : "Mr. Nguyễn Duy", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "DEPNMWVojiuE+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0902409109"
+}
+{ 
+    "_id" : ObjectId("5d2d98f1d0abfe3a6a6e1ba0"), 
+    "UserName" : "Nissan Can Tho", 
+    "CreatedDate" : ISODate("2019-07-16T09:29:21.033+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "South", 
+        "Name" : "Nissan Can Tho", 
+        "Abbreviation" : "NCTH", 
+        "Type" : "3S", 
+        "Code" : "24"
+    }, 
+    "Email" : "vanbinhnguyen.nissanct@haxaco.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Mr. Nguyễn Văn Bình", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "l5X+fUQ4Ho+E+i0M+G5gAw==", 
+    "Permission" : [
+
+    ], 
+    "PhoneNumber" : "0903835853"
+}
+{ 
+    "_id" : ObjectId("5d36783dd0abfe3a6a70ce2c"), 
+    "UserName" : "Lientp", 
+    "CreatedDate" : ISODate("2019-07-22T17:00:00.000+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Nationwide", 
+        "Name" : "Nissan Viet Nam", 
+        "Abbreviation" : "NVL", 
+        "Type" : "NIL", 
+        "Code" : "00"
+    }, 
+    "Email" : "lien.tran@nissan.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Trần Phương Liên", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "k4njUeETzyFnWy2/R3eddg==", 
+    "Permission" : [
+        NumberInt(92), 
+        NumberInt(182)
+    ], 
+    "PhoneNumber" : "0833847888"
+}
+{ 
+    "_id" : ObjectId("5d4b949fd0abfe3a6a7f0fd8"), 
+    "UserName" : "My.nguyen", 
+    "CreatedDate" : ISODate("2019-08-08T03:18:55.988+0000"), 
+    "Dealer" : {
+        "_id" : {
+            "_csharpnull" : true
+        }, 
+        "Region" : "Nationwide", 
+        "Name" : "Nissan Viet Nam", 
+        "Abbreviation" : "NVL", 
+        "Type" : "NIL", 
+        "Code" : "00"
+    }, 
+    "Email" : "my.nguyen@nissan.com.vn", 
+    "Enable" : true, 
+    "FullName" : "Nguyễn Trà My", 
+    "LastLoginTime" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "ModifiedDate" : ISODate("1999-12-31T17:00:00.000+0000"), 
+    "Password" : "J+pBtN1n3uw=", 
+    "Permission" : [
+        NumberInt(92), 
+        NumberInt(182)
+    ], 
+    "PhoneNumber" : "0355993298"
+}

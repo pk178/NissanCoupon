@@ -1,0 +1,14 @@
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Debug\netcoreapp2.1\NissanCoupon.deps.json
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Debug\netcoreapp2.1\NissanCoupon.runtimeconfig.json
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Debug\netcoreapp2.1\NissanCoupon.runtimeconfig.dev.json
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Debug\netcoreapp2.1\NissanCoupon.dll
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Debug\netcoreapp2.1\NissanCoupon.pdb
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Debug\netcoreapp2.1\NissanCouponLibrary.dll
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Debug\netcoreapp2.1\NissanCouponLibrary.pdb
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Debug\netcoreapp2.1\NissanCoupon.csprojAssemblyReference.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Debug\netcoreapp2.1\NissanCoupon.csproj.CoreCompileInputs.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Debug\netcoreapp2.1\NissanCoupon.AssemblyInfoInputs.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Debug\netcoreapp2.1\NissanCoupon.AssemblyInfo.cs
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Debug\netcoreapp2.1\NissanCoupon.csproj.CopyComplete
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Debug\netcoreapp2.1\NissanCoupon.dll
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Debug\netcoreapp2.1\NissanCoupon.pdb

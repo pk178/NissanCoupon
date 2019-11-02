@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "CouponDaSuDung";
+}
+
+<div class="container-fluid" ng-controller="redeemedController">
+    <div class="row">
+        <div class="col-md-6">
+            <input type="text" class="form-control pull-left" style="width:200px;margin-right:10px" ng-model="search.from" placeholder="{{'TuNgay'|translate}}" date-picker />
+            <input type="text" class="form-control pull-left" style="width:200px;margin-right:10px" ng-model="search.to" placeholder="{{'DenNgay'|translate}}" date-picker />
+            <button class="btn btn-primary pull-left" style="margin-right:10px" ng-click="loadCoupons()">{{'TimKiem'|translate}}</button>
+            <button class="btn btn-default pull-left" ng-click="export()">{{'Xuat'|translate}}</button>
+        </div>
+        <div class="col-md-6">
+            <input type="text" class="form-control pull-right" style="width:200px" ng-model="filter" placeholder="{{'TimKiem'|translate}}" />
+        </div>
+    </div>
+    <p></p>
+    <div class="row">
+        <div class="col-md-12">
+            <table border="1" class="table table table-bordered table-hover">
+                <tr>
+                    <th></th>
+                    <th>{{'CustomerName'|translate}}</th>
+                    <th>{{'PhoneNumber'|translate}}</th>
+                    <th>{{'VehicleModel'|translate}}</th>
+                    <th>{{'ChassisNumber'|translate}}</th>
+                    <th>{{'LicensePlateNumber'|translate}}</th>
+                    <th>{{'GiftCode'|translate}}</th>
+                    <th>{{'ExpriedDate'|translate}}</th>
+                    <th>{{'EntitledServiceGift'|translate}}</th>
+                    <th>{{'RedeemedDate'|translate}}</th>
+                    <th>{{'RedeemedByDealer'|translate}}</th>
+                </tr>
+                <tr ng-repeat="coupon in coupons| filter:filter">
+                    <td align="center">{{$index+1}}</td>
+                    <td>{{coupon.CustomerName}}</td>
+                    <td>{{coupon.PhoneNumber}}</td>
+                    <td>{{coupon.VehicleModel}}</td>
+                    <td>{{coupon.ChassisNumber}}</td>
+                    <td>{{coupon.LicensePlateNumber}}</td>
+                    <td>{{coupon.GiftCode}}</td>
+                    <td>{{coupon.ExpriedDate}}</td>
+                    <td>{{coupon.EntitledServiceGift}}</td>
+                    <td>{{coupon.RedeemedDate}}</td>
+                    <td>{{coupon.RedeemedByDealer}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

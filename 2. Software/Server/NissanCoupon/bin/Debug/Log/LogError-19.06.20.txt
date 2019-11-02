@@ -1,0 +1,12 @@
+Time: 2019/06/20 16:54:47
+FunctionName: InsertNewCoupon
+Message: 
+Exeption: Invalid length for a Base-64 char array or string.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/20 16:57:23
+FunctionName: InsertNewCoupon
+Message: 
+Exeption: Invalid length for a Base-64 char array or string.
+--------------------------------------------------------------------------------------------------------------
+

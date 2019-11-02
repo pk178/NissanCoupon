@@ -1,0 +1,26 @@
+1. Tạo mã Coupon từ danh sách đưa vào.
+2. Kết nối SMS gateway.
+3. Nhắn tin Coupon cho KH : Coupon mới, Coupon sắp hết hạn
+4. 
+
+Quy tắc tạo mã code ?
+API lấy thông tin đại lý khi sử dụng Coupon.
+
+tài khoản: nissanvn
+pass: cs2019
+thương hiệu: Nissan VN
+
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <SendMT xmlns="http://1sms.vn/">
+		<user>nissanvn</user>
+		<pass>nissanvn12</pass>
+		<sms>Xin chao cac ban</sms>
+		<senderName>Nissan VN</senderName>
+		<phone>84356053721</phone>
+		<isFlash>false</isFlash>
+		<isUnicode>false</isUnicode>
+	</SendMT>
+  </soap:Body>
+</soap:Envelope>

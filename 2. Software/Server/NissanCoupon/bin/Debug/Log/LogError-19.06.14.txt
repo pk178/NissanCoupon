@@ -1,0 +1,18 @@
+Time: 2019/06/14 13:48:55
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: Type 'NissanCouponLibrary.Entity.CouponInfo' contains two members 'PromotionDateStr' 'and 'RedeemedDateStr' with the same data member name 'PromotionDate'. Multiple members with the same name in one type are not supported. Consider changing one of the member names using DataMemberAttribute attribute.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/14 13:48:57
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/14 15:14:54
+FunctionName: GetAllCoupon
+Message: 
+Exeption: Invalid length for a Base-64 char array or string.
+--------------------------------------------------------------------------------------------------------------
+

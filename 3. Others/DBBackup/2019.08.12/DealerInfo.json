@@ -1,0 +1,200 @@
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82b7"), 
+    "Region" : "Nationwide", 
+    "Name" : "Nissan Viet Nam", 
+    "Abbreviation" : "NVL", 
+    "Type" : "NIL", 
+    "Code" : "00"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82b8"), 
+    "Region" : "North", 
+    "Name" : "Nissan Ha Dong", 
+    "Abbreviation" : "NHD", 
+    "Type" : "3S", 
+    "Code" : "01"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82b9"), 
+    "Region" : "North", 
+    "Name" : "Nissan Thang Long", 
+    "Abbreviation" : "NTL", 
+    "Type" : "3S", 
+    "Code" : "02"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82ba"), 
+    "Region" : "North", 
+    "Name" : "Nissan Long Bien", 
+    "Abbreviation" : "NLB", 
+    "Type" : "3S", 
+    "Code" : "03"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82bb"), 
+    "Region" : "North", 
+    "Name" : "Nissan Kinh Do", 
+    "Abbreviation" : "NKD", 
+    "Type" : "3S", 
+    "Code" : "04"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82bc"), 
+    "Region" : "North", 
+    "Name" : "Nissan Pham Van Dong", 
+    "Abbreviation" : "NPVD", 
+    "Type" : "3S", 
+    "Code" : "05"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82bd"), 
+    "Region" : "North", 
+    "Name" : "Nissan Le Van Luong", 
+    "Abbreviation" : "NLVL", 
+    "Type" : "1S", 
+    "Code" : "06"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82be"), 
+    "Region" : "North", 
+    "Name" : "Nissan Bac Giang", 
+    "Abbreviation" : "NBG", 
+    "Type" : "3S", 
+    "Code" : "07"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82bf"), 
+    "Region" : "North", 
+    "Name" : "Nissan Lao Cai", 
+    "Abbreviation" : "NLC", 
+    "Type" : "3S", 
+    "Code" : "08"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c0"), 
+    "Region" : "North", 
+    "Name" : "Nissan Ha Long", 
+    "Abbreviation" : "NHL", 
+    "Type" : "3S", 
+    "Code" : "09"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c1"), 
+    "Region" : "North", 
+    "Name" : "Nissan Vinh Phuc", 
+    "Abbreviation" : "NVP", 
+    "Type" : "3S", 
+    "Code" : "10"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c2"), 
+    "Region" : "North", 
+    "Name" : "Nissan Tay Ho", 
+    "Abbreviation" : "NTO", 
+    "Type" : "1S", 
+    "Code" : "11"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c3"), 
+    "Region" : "Central", 
+    "Name" : "Nissan Thanh Hoa", 
+    "Abbreviation" : "NTH", 
+    "Type" : "3S", 
+    "Code" : "12"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c4"), 
+    "Region" : "Central", 
+    "Name" : "Nissan Vinh", 
+    "Abbreviation" : "NVI", 
+    "Type" : "3S", 
+    "Code" : "13"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c5"), 
+    "Region" : "Central", 
+    "Name" : "Nissan Dong Ha", 
+    "Abbreviation" : "NDH", 
+    "Type" : "3S", 
+    "Code" : "14"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c6"), 
+    "Region" : "Central", 
+    "Name" : "Nissan Da Nang", 
+    "Abbreviation" : "NDN", 
+    "Type" : "3S", 
+    "Code" : "15"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c7"), 
+    "Region" : "Central", 
+    "Name" : "Nissan Buon Ma Thuot", 
+    "Abbreviation" : "NBMT", 
+    "Type" : "3S", 
+    "Code" : "16"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c8"), 
+    "Region" : "Central", 
+    "Name" : "Nissan Quy Nhon", 
+    "Abbreviation" : "NQN", 
+    "Type" : "3S", 
+    "Code" : "17"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82c9"), 
+    "Region" : "Central", 
+    "Name" : "Nissan Gia Lai", 
+    "Abbreviation" : "NGL", 
+    "Type" : "3S", 
+    "Code" : "18"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82ca"), 
+    "Region" : "South", 
+    "Name" : "Nissan Mien Tay", 
+    "Abbreviation" : "NMT", 
+    "Type" : "3S", 
+    "Code" : "19"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82cb"), 
+    "Region" : "South", 
+    "Name" : "Nissan Go Vap", 
+    "Abbreviation" : "NGV", 
+    "Type" : "3S", 
+    "Code" : "20"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82cc"), 
+    "Region" : "South", 
+    "Name" : "Nissan Sai Gon", 
+    "Abbreviation" : "NSG", 
+    "Type" : "3S", 
+    "Code" : "21"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82cd"), 
+    "Region" : "South", 
+    "Name" : "Nissan Bien Hoa", 
+    "Abbreviation" : "NBH", 
+    "Type" : "3S", 
+    "Code" : "22"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82ce"), 
+    "Region" : "South", 
+    "Name" : "Nissan Binh Duong", 
+    "Abbreviation" : "NBD", 
+    "Type" : "3S", 
+    "Code" : "23"
+}
+{ 
+    "_id" : ObjectId("5d01bc532937dd1bcc6e82cf"), 
+    "Region" : "South", 
+    "Name" : "Nissan Can Tho", 
+    "Abbreviation" : "NCTH", 
+    "Type" : "3S", 
+    "Code" : "24"
+}

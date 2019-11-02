@@ -1,0 +1,13 @@
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Release\netcoreapp2.1\linux-x64\NissanCoupon.deps.json
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Release\netcoreapp2.1\linux-x64\NissanCoupon.runtimeconfig.json
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Release\netcoreapp2.1\linux-x64\NissanCoupon.runtimeconfig.dev.json
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Release\netcoreapp2.1\linux-x64\NissanCoupon.dll
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Release\netcoreapp2.1\linux-x64\NissanCoupon.pdb
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Release\netcoreapp2.1\linux-x64\NissanCouponLibrary.dll
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\bin\Release\netcoreapp2.1\linux-x64\NissanCouponLibrary.pdb
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Release\netcoreapp2.1\linux-x64\NissanCoupon.csproj.CoreCompileInputs.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Release\netcoreapp2.1\linux-x64\NissanCoupon.AssemblyInfoInputs.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Release\netcoreapp2.1\linux-x64\NissanCoupon.AssemblyInfo.cs
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Release\netcoreapp2.1\linux-x64\NissanCoupon.csproj.CopyComplete
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Release\netcoreapp2.1\linux-x64\NissanCoupon.dll
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCoupon\obj\Release\netcoreapp2.1\linux-x64\NissanCoupon.pdb

@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "TaoMoiCoupon";
+}
+<link href="~/Content/file-input.css" rel="stylesheet" />
+<div class="container text-center" style="margin-top:250px" ng-controller="couponController">
+    <p ng-if="result" class="{{result.ReturnCode===0?'text-success':'text-danger'}}">{{result.ReturnString|translate}}</p>
+    <div class="input-file-container">
+        <input type="file" name="file" id="file" class="input-file" accept=".xlsx" file-upload />
+        <label for="file" class="btn btn-default input-file-trigger"><i class="fa fa-5x fa-cloud-upload"></i> <span>{{'ChonFile'|translate}}</span></label>
+        <p></p>
+        <a href="~/Template/Coupons.xlsx"><i>{{'TaiFileMau'|translate}}</i></a>
+    </div>
+</div>

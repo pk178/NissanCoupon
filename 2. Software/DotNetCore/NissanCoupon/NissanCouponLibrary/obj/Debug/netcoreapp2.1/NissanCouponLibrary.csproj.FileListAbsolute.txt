@@ -1,0 +1,9 @@
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\bin\Debug\netcoreapp2.1\NissanCouponLibrary.deps.json
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\bin\Debug\netcoreapp2.1\NissanCouponLibrary.dll
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\bin\Debug\netcoreapp2.1\NissanCouponLibrary.pdb
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\obj\Debug\netcoreapp2.1\NissanCouponLibrary.csprojAssemblyReference.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\obj\Debug\netcoreapp2.1\NissanCouponLibrary.csproj.CoreCompileInputs.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\obj\Debug\netcoreapp2.1\NissanCouponLibrary.AssemblyInfoInputs.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\obj\Debug\netcoreapp2.1\NissanCouponLibrary.AssemblyInfo.cs
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\obj\Debug\netcoreapp2.1\NissanCouponLibrary.dll
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\DotNetCore\NissanCoupon\NissanCouponLibrary\obj\Debug\netcoreapp2.1\NissanCouponLibrary.pdb

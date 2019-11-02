@@ -1,0 +1,72 @@
+Time: 2019/06/13 10:15:43
+FunctionName: UploadCouponData
+Message: 
+Exeption: Object reference not set to an instance of an object.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:22:59
+FunctionName: GetDealer
+Message: 
+Exeption: An error occurred while deserializing the Code property of class NissanCouponLibrary.Entity.DealerInfo: Cannot deserialize a 'String' from BsonType 'Int32'.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:22:59
+FunctionName: UploadCouponData
+Message: 
+Exeption: Object reference not set to an instance of an object.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:42:24
+FunctionName: CheckCoupon
+Message: SS190601001722
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:42:27
+FunctionName: CheckCoupon
+Message: SS190601001722
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:43:17
+FunctionName: CheckCoupon
+Message: SS190601001722
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:43:23
+FunctionName: CheckCoupon
+Message: SS190601001722
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:43:44
+FunctionName: CheckCoupon
+Message: SS190601001722
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:44:02
+FunctionName: CheckCoupon
+Message: SS190601001722
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:44:57
+FunctionName: CheckCoupon
+Message: SS190601001722
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:45:07
+FunctionName: CheckCoupon
+Message: SS190601001722
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/13 10:45:12
+FunctionName: CheckCoupon
+Message: SS190601001723
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+

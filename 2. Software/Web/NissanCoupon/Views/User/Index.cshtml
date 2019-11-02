@@ -1,0 +1,121 @@
+﻿
+@{
+    ViewBag.Title = "QuanLyNguoiDung";
+}
+
+<div class="container" ng-controller="userController">
+    <div class="row">
+        <div class="col-md-6">
+            <input type="text" class="form-control pull-left" style="width:200px" ng-model="filter" placeholder="{{'TimKiem'|translate}}" />
+        </div>
+        <div class="col-md-6">
+            <button class="btn btn-primary pull-right" ng-click="addUser()">{{'Them'|translate}}</button>
+        </div>
+    </div>
+    <p></p>
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table table-bordered table-hover">
+                <tr>
+                    <th></th>
+                    <th>{{'TenDangNhap'|translate}}</th>
+                    <th>{{'TenDayDu'|translate}}</th>
+                    <th>{{'Email'|translate}}</th>
+                    <th>{{'SoDienThoai'|translate}}</th>
+                    <th>{{'DaiLy'|translate}}</th>
+                    <th></th>
+                </tr>
+                <tr ng-repeat="user in users| filter:filter">
+                    <td align="center">{{$index+1}}</td>
+                    <td>{{user.UserName}}</td>
+                    <td>{{user.FullName}}</td>
+                    <td>{{user.Email}}</td>
+                    <td>{{user.PhoneNumber}}</td>
+                    <td>{{user.Dealer.Name}}</td>
+                    <td align="center"><a href="#" ng-click="editUser($index)"><i class="fa fa-edit"></i></a></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form class="form-horizontal" name="form">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">{{'ThongTinNguoiDung'|translate}}</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <div class="col-sm-9 col-md-offset-3">
+                                <p ng-if="message" class="text-danger">{{message|translate}}</p>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'TenDangNhap'|translate}}</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" ng-model="user.UserName" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'MatKhau'|translate}}</label>
+                            <div class="col-sm-9">
+                                <input type="password" class="form-control" ng-model="user.Password" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'NhapLaiMatKhau'|translate}}</label>
+                            <div class="col-sm-9">
+                                <input type="password" class="form-control" ng-model="user.RePassword" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'TenDayDu'|translate}}</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" ng-model="user.FullName" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'Email'|translate}}</label>
+                            <div class="col-sm-9">
+                                <input type="email" class="form-control" ng-model="user.Email" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'SoDienThoai'|translate}}</label>
+                            <div class="col-sm-9">
+                                <input type="tel" class="form-control" ng-model="user.PhoneNumber" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'DaiLy'|translate}}</label>
+                            <div class="col-sm-9">
+                                <select class="form-control" ng-model="user.Dealer.Code" ng-options="dealer.Code as dealer.Name for dealer in dealers" required></select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'Quyen'|translate}}</label>
+                            <div class="col-sm-9">
+                                <select class="form-control" ng-model="user.Role" required>
+                                    <option value="0">{{'DaiLy'|translate}}</option>
+                                    <option value="1">{{'Admin'|translate}}</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">{{'Enable'|translate}}</label>
+                            <div class="col-sm-9">
+                                <label>
+                                    <input type="checkbox" ng-model="user.Enable" ng-true-value="true" ng-false-value="false" style="margin-top:10px" />
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-primary" ng-click="updateUser()">{{'CapNhat'|translate}}</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

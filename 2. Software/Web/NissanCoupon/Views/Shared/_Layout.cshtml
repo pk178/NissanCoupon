@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html ng-app="nissanCoupon">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{'@ViewBag.Title'|translate}} - Nissan Coupon</title>
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/app.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-cookies.min.js"></script>
+    <script src="~/Scripts/angular-translate.min.js"></script>
+    <script src="~/Scripts/app.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a style="line-height:10px;padding-top:10px;padding-bottom:10px" href="#" ng-click="changeLanguage('en')">English</a>
+                </li>
+                <li>
+                    <a style="line-height:10px;padding-top:10px;padding-bottom:10px" href="#" ng-click="changeLanguage('vi')">Tiếng Việt</a>
+                </li>
+                @if (Session["Username"] != null)
+                {
+                    <li>
+                        <a style="line-height:10px;padding-top:10px;padding-bottom:10px" href="/Home/Logout">{{'DangXuat'|translate}}</a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </nav>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-fixed-top2">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="http://www.nissan.com.vn" target="_blank">
+                    <img class="logo" src="~/Content/nissan-logo.png" />
+                </a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/"><i class="fa fa-check"></i> {{'KiemTraCoupon'|translate}}</a></li>
+                <li><a href="/Coupon/Redeemed"><i class="fa fa-ticket"></i> {{'CouponDaSuDung'|translate}}</a></li>
+                @if (Session["Admin"] != null || (HttpContext.Current.Session["Permission"] != null && HttpContext.Current.Session["Permission"].ToString().Contains(((int)AuthCode.Coupon).ToString())))
+                {
+                    <li><a href="/Coupon/Create"><i class="fa fa-cloud-upload"></i> {{'TaoMoiCoupon'|translate}}</a></li>
+                    <li><a href="/Coupon"><i class="fa fa-ticket"></i> {{'DanhSachCoupon'|translate}}</a></li>
+                }
+                @if (Session["Admin"] != null || (HttpContext.Current.Session["Permission"] != null && HttpContext.Current.Session["Permission"].ToString().Contains(((int)AuthCode.User).ToString())))
+                {
+                    <li><a href="/User"><i class="fa fa-user"></i> {{'QuanLyNguoiDung'|translate}}</a></li>
+                }
+            </ul>
+        </div>
+    </nav>
+    <div style="min-height:300px;margin-top:130px">
+        @RenderBody()
+    </div>
+    <hr />
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    Đơn vị chủ quản: Công ty TNHH Nissan Việt Nam
+                    <br />
+                    Địa chỉ: Tầng 3, tòa nhà PVI Tower, số 01 phố Phạm Văn Bạch, P. Yên Hòa, Q. Cầu Giấy, Hà Nội - Điện thoại: 024 7301 1333
+                    <br />
+                    MST: 0103008177 - Số ĐKKD: 011023000152 cấp ngày 10/11/2008 bởi UBND TP.HN
+                    <br />
+                    <br />
+                </div>
+                <div class="col-md-3 text-right">
+                    © 2019 Nissan Vietnam Co., Ltd
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

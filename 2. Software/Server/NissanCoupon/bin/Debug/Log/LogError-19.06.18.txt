@@ -1,0 +1,48 @@
+Time: 2019/06/18 16:08:45
+FunctionName: GetDealer
+Message: 
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/18 16:08:57
+FunctionName: UploadCouponData
+Message: 
+Exeption: Object reference not set to an instance of an object.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/18 16:09:03
+FunctionName: GetDealer
+Message: 
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/18 16:09:46
+FunctionName: GetDealer
+Message: 
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/18 16:15:39
+FunctionName: GetDealer
+Message: 
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/18 16:15:58
+FunctionName: GetDealer
+Message: 
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/18 16:23:28
+FunctionName: GetDealer
+Message: 
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/18 16:37:55
+FunctionName: CreateCounponOtp
+Message: 
+Exeption: Sequence contains no elements
+--------------------------------------------------------------------------------------------------------------
+

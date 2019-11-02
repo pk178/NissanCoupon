@@ -1,0 +1,828 @@
+Time: 2019/09/03 19:17:45
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:17:46
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:17:48
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:17:49
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:26
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:27
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:28
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:29
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:30
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:31
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:32
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:33
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:34
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:35
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:36
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:37
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:38
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:39
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:40
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:41
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:42
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:43
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:45
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:46
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:47
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:48
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:49
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:50
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:51
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:52
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:53
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:54
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:55
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:56
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:57
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:58
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:18:59
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:19:00
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:16
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:16
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:17
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:18
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:19
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:20
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:21
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:22
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:23
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:24
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:25
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:26
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:27
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:28
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:29
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:30
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:31
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:32
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:33
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:35
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:36
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:37
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:38
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:39
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:40
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:41
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:42
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:43
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:44
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:45
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:46
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:47
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:48
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:49
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:50
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:20:53
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:27
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:28
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:29
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:30
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:31
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:32
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:34
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:35
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:36
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:37
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:38
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:39
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:40
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:41
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:42
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:43
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:44
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:45
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:46
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:47
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:48
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:49
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:50
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:51
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:52
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:53
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:54
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:55
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:56
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:57
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:58
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:21:59
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:00
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:01
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:02
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:03
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:04
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:05
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:06
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:07
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:08
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:09
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:10
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:11
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:13
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:14
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:15
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:16
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:17
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:18
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:19
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:20
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:21
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:22
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:23
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:24
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:25
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:26
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:27
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:28
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:29
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:30
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:31
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: HTTP could not register URL http://+:2622/NSC/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/09/03 19:22:32
+FunctionName: NissanCouponHosting
+Message: 
+Exeption: The communication object, System.ServiceModel.Web.WebServiceHost, cannot be used for communication because it is in the Faulted state.
+--------------------------------------------------------------------------------------------------------------
+

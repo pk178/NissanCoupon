@@ -1,0 +1,33 @@
+Time: 2019/06/25 10:52:20
+FunctionName: GetObjectFromStream
+Message: {
+	"Region":"Thử nghiệm 02",
+	"Name":"Nissan Ha Tay",
+	"Abbreviation":"Survey",
+	"Type":"16/06/2019",
+	"Code":"02"
+}
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/25 10:52:32
+FunctionName: GetObjectFromStream
+Message: {
+	"Region":"Thử nghiệm 02",
+	"Name":"Nissan Ha Tay",
+	"Abbreviation":"Survey",
+	"Type":"16/06/2019",
+	"Code":"02"
+}
+--------------------------------------------------------------------------------------------------------------
+
+Time: 2019/06/25 10:54:44
+FunctionName: GetObjectFromStream
+Message: {
+	"Region":"Thử nghiệm 02",
+	"Name":"Nissan Ha Dong",
+	"Abbreviation":"Survey",
+	"Type":"16/06/2019",
+	"Code":"02"
+}
+--------------------------------------------------------------------------------------------------------------
+

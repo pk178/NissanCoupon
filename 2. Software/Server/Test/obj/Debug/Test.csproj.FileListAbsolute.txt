@@ -1,0 +1,9 @@
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\bin\Debug\Test.exe.config
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\bin\Debug\Test.exe
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\bin\Debug\Test.pdb
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\obj\Debug\Test.Properties.Resources.resources
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\obj\Debug\Test.exe
+D:\2.Data\1.Project\Dropbox\Project\ByTech\Project\4. NissanCoupon\2. Software\Server\Test\obj\Debug\Test.pdb

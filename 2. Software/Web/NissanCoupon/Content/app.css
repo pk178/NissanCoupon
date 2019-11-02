@@ -1,0 +1,17 @@
+﻿body {
+    display: none;
+}
+
+.logo {
+    height: 120px;
+    top: -30px;
+    position: absolute;
+}
+
+.navbar-fixed-top {
+    background: #fff;
+}
+
+.navbar-fixed-top2 {
+    top: 30px;
+}
